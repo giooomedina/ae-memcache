@@ -1,2 +1,2 @@
 # ae-memcache
-Appengine  Memory Caching Middleware
+Appengine Go Memory Caching Middleware
